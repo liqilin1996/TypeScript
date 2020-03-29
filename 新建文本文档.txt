@@ -2,7 +2,7 @@
 基本类型包括：number类型、string类型、boolean类型
 symbol类型、null类型、undefined类型
 
-还有Object对象类型，
+Object对象类型，
 
 除了上了的类型，ts还添加了下面一些类型：数组、元组、枚举、Ang、void、Never
 
